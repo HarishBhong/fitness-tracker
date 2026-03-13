@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏋️‍♂️ Personal Fitness Tracker Using Python & AI  
 
 🚀 **Live Web App:** [Fitness Tracker AI WebApp]  ->   (https://fitness-tracker-python-ai-webapp.streamlit.app/)  
@@ -41,3 +42,6 @@ It helps users **track calories burned, monitor exercise progress, and predict d
 8. **Explore Fitness Products** via the integrated store.
 
 
+=======
+# fitness-tracker
+>>>>>>> be3333d1346cd6d305fe91813b44a602e729f7de
